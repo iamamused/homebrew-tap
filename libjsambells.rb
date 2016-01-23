@@ -9,8 +9,8 @@
 class Libjsambells < Formula
   desc "Collection of tools freely available online elsewhere"
   homepage "http://jeffreysambells.com"
-  url "https://github.com/iamamused/libjsambells/archive/1.0.4.tar.gz"
-  version "1.0.4"
+  url "https://github.com/iamamused/libjsambells/archive/1.0.5.tar.gz"
+  version "1.0.5"
   sha256 "d10f89ea0ca63b9c0c6afc05aba9f6a4fcfb49cfcb0a2eccdcd23e3b047fe964"
 
   def install
