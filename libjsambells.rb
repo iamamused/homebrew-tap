@@ -12,9 +12,9 @@
 class Libjsambells < Formula
   desc "Collection of tools freely available online elsewhere"
   homepage "http://jeffreysambells.com"
-  url "https://github.com/iamamused/libjsambells/archive/1.0.7.tar.gz"
-  version "1.0.7"
-  sha256 "0310b75b7dba116eb4f8824df92ba68718aad9cef5afb5db4543477cf5c493f3"
+  url "https://github.com/iamamused/libjsambells/archive/1.0.8.tar.gz"
+  version "1.0.8"
+  sha256 "2074fcf679ce7194364e9122a6582efa3b3673e99b7dd8e7bc104a36cc01c922"
 
   def install
 	  system "make", "-f", "BrewMakefile"
