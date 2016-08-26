@@ -20,7 +20,7 @@ class Libjsambells < Formula
   homepage "http://jeffreysambells.com"
   url "https://github.com/iamamused/libjsambells/archive/1.0.12.tar.gz"
   version "1.0.12"
-  sha256 "303503afd73ec2426d7846ee10f272b8216d56c6e3632be8151cea678d764f69"
+  sha256 "23917192e5acfef994d1a3d03416ce7b235dae633a8f95d0231fe805d06f6937"
 
   def install
 	  system "make", "-f", "BrewMakefile"
